@@ -1,0 +1,16 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://data/ContentInfo.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+id = "nowhere_peasant"
+name = "Nowhere Peasant"
+version_code = 0
+version_string = "1.0"
+author = "Floral"
+save_file_format_tag = "nowhere_peasant"
+save_file_format_tag_version = 0
+network_protocol_tag = "nowhere_peasant"
+modified_files = [ "res://ui/monster_stickers/nowhere_peasant.png", "res://ui/monster_stickers/nowhere_peasant.png.import", "res://sfx/cries/nowhere_peasant_cry.wav", "res://sfx/cries/nowhere_peasant_cry.wav.import", "res://data/monster_forms/nowhere_peasant.tres", "res://data/archangel_moves/monarch_call_to_arms.tres" ]
+modified_dirs = [  ]
